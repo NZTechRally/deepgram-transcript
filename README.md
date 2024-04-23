@@ -26,7 +26,7 @@ npm i
 
 3. In terminal, run
    ```bash
-   node index.js
+   npm start
    ```
 4. New caption files should be created in `output` folder. Remove first 9 lines (notes and Deepgram branding)
 
