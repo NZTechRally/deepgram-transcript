@@ -19,7 +19,10 @@ npm i
 ## Generating caption
 
 1. Put video or audio files inside `raw` folder.
-2. In `index.js`, update: `YOU_DEEPGRAM_API_KEY` with your own personal Deepgram key
+2. In `index.js`, update:
+
+   - `YOUR_DEEPGRAM_API_KEY` with your own personal Deepgram key
+   - `mp4` to file extension of the raw files
 
 3. In terminal, run
    ```bash
