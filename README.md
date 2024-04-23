@@ -18,15 +18,14 @@ npm i
 
 ## Generating caption
 
-1. Put video or audio file inside `raw` folder.
-2. In `index.js`, update:
-   - `deepgramApiKey` with your own registered Deepgram key
-   - `fileName` with name of the video you just put into the raw folder
+1. Put video or audio files inside `raw` folder.
+2. In `index.js`, update: `YOU_DEEPGRAM_API_KEY` with your own personal Deepgram key
+
 3. In terminal, run
    ```bash
    node index.js
    ```
-4. A new caption file should be created in `output` folder.
+4. New caption files should be created in `output` folder. Remove first 9 lines (notes and Deepgram branding)
 
 ## Troubleshooting
 
