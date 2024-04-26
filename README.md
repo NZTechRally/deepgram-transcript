@@ -1,4 +1,4 @@
-# Deepgram transcript generator
+# Deepgram caption and transcript generator
 
 For generating transcripts for our video and audio files
 
