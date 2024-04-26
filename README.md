@@ -9,7 +9,9 @@ For generating transcripts for our video and audio files
 - Node v20+ (installed globally)
 - Free personal [Deepgram account](https://console.deepgram.com/signup?jump=keys)
 
-#### Install dependencies
+### Install dependencies
+
+In terminal, open folder of this codebase, and run
 
 ```bash
 npm i
