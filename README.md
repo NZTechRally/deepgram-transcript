@@ -29,7 +29,7 @@ npm i
    ```bash
    npm start
    ```
-4. New caption files should be created in `output` folder. Remove first 9 lines (notes and Deepgram branding)
+4. New caption files should be created in `output` folder. Upload these to YouTube
 
 ## Troubleshooting
 
